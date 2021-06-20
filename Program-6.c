@@ -13,7 +13,7 @@ int main()
     scanf("%d",&num);
     //printf("Enter %d elements in array: ", num);
         //printf("Enter the elements");
-    for(i=0;i<n;i++)
+    for(i=0;i<3;i++)
     {
         scanf("%d",&arr[i]);//missing code
     }
@@ -21,12 +21,12 @@ int main()
     evennum = 0; // Assuming 0 even numbers
     oddnum  = 0; // Assuming 0 odd numbers
 
-    for(i=0; i<n; i++)
+    for(i=0; i<3; i++)
     {
         /* If the current element of array is evennumber then increment evennumber count */
         if(arr[i]%2 == 0) //missing code
         {
-            ++;
+            evennum++;
         }
         else
         {
