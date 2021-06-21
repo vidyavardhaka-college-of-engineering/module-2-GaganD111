@@ -12,6 +12,6 @@ int main() {
 		printf("I Love VVCE ");
 		i++;
 		// complete the statement
-	} while(i<=);
+	} while(i<=3);
 	return(0);// complete the condition
 }
