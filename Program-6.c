@@ -9,7 +9,7 @@ int main()
     int i, num, evennum, oddnum;
 
     // Reads size and elements in array
-    printf("Enter the number of elements and the elements");
+    
     scanf("%d",&num);
     //printf("Enter %d elements in array: ", num);
         //printf("Enter the elements");
